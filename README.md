@@ -1,6 +1,7 @@
 ## Rays v 1.0.29
 
 ### Plug-in for Cinema 4D R16-19
+### Author/Developer Evgeny Poboykin
 
 ### OS
 - Description Rays 1.0.29
