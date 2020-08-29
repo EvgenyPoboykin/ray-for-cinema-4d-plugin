@@ -2,7 +2,7 @@
 
 ### Plug-in for Cinema 4D R16-19
 
-### About
+### OS
 - Description Rays 1.0.29
 - Platform: x86/x64
 - OS: MacOS & PC
