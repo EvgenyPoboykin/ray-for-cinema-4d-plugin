@@ -1,0 +1,47 @@
+STRINGTABLE Floor
+{
+    Floor "Rays 1.0.29";
+
+    ID_OBJECTPROPERTIES_IF "Settings";
+
+    IF_MODE "Gradient Type";
+    IF_CIRCULAR "Circular";
+    IF_V "Vertical";
+    IF_GRADIENT "Floor Gradient";
+
+    IF_REFLECTION "Reflection Settings";
+
+    IF_ONOFF "On/Off";
+    IF_REF_MODE "Fresnel";
+    IF_DIEL "Dielectric";
+    IF_COND "Conductor";
+    IF_STRENGTH "Reflection Strength";
+    IF_RUOGHNESS "Roughness";
+    IF_FRESNEL_STRENGTH "Fresnel Strength";
+    IF_IOR "IOR";
+    IF_SAMPLING "Reflection Sampling";
+
+    IF_DIM "Distance Dim";
+    IF_DIST "Distance";
+    IF_FALLOFF "Falloff";
+
+    IF_SET "Additional Settings";
+    IF_ONOFF_FLOOR "Turnoff Floor";
+    IF_ONOFF_BG "Turnoff Background";
+
+    IF_FLOOR_MODE "Floor Mode";
+    IF_F_INFINITE "Infinite";
+    IF_F_STUDIO "Studio";
+
+    IF_SIZE_F_STUDIO "Radius Studio Floor";
+
+    IF_GRADIENT_SET "Gradient Settings";
+
+    IF_PE "Developer: Evgeny Poboykin, support: lattestudioui@gmail.com";
+
+    IF_HELP "Show Help";
+    IF_MODE_SET "Floor Settings";
+
+    IF_RENDERER "You Use Renderer";
+
+}

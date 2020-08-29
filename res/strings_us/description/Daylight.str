@@ -1,0 +1,46 @@
+STRINGTABLE Daylight
+{
+    Daylight "Rays 1.0.29";
+
+    ID_OBJECTPROPERTIES_DL "Settings";
+
+    DL_ROT_X "Rotation X";
+    DL_ROT_Y "Rotation Y";
+
+    DL_SUN_SETTINGS "Sun Settings";
+
+    DL_LIGHT_COLOR "Daylight Color";
+    DL_BRIGHTNESS "Sun Brightness";
+
+    DL_SHADOW_SET "Shadow Settings";
+
+    DL_LIGHT_SHADOWTYPE "Shadow Type";
+    DL_TRACE "Raytraced (Hard)";
+    DL_AREA "Area";
+    DL_SHADOW_DENSITY "Shadow Density";
+    DL_LOCK "Use Artistic Shadows";
+    DL_SHADOW_COLOR "Shadow Color";
+    DL_SHADOW_HUE "Shadow Saturation";
+    DL_SHADOW_BRIGHTNESS "Shadow Value";
+
+    DL_FOG_SET "Fog Settings";
+
+    DL_USED_FOG "Use Fog";
+    DL_FOG_STR "Fog Strength";
+    DL_FOG_DISTANCE "Fog Distance";
+    DL_LOCK_FOG "Lock Fog Color";
+    DL_FOG_COLOR "Fog Color";
+    DL_FOG_HUE "Fog Saturation";
+
+    DL_VIEWPORT "Additional Settings";
+
+    DL_SHOW_IN_VIEWPORT "Show Daylight In Viewport";
+    DL_SHOW_FOG "Show Fog";
+
+    DL_PE "Developer: Evgeny Poboykin, support: lattestudioui@gmail.com";
+
+    DL_HELP "Show Help";
+    DL_POSITION_SUN "Position Sun";
+
+    DL_RENDERER "You Use Renderer";
+}

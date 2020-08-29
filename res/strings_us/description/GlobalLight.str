@@ -1,0 +1,24 @@
+STRINGTABLE GlobalLight
+{
+    GlobalLight "Rays 1.0.29";
+
+    ID_OBJECTPROPERTIES_GL "Settings";
+
+    GL_LIGHT_COLOR "Color Light";
+    GL_LIGHT_STR "Light Brightness";
+
+    GL_USED_REFERENCE "Additional Settings";
+
+    GL_USED "Use Master Light";
+    GL_LINK "Master Light";
+
+    GL_PE "Developer: Evgeny Poboykin, support: lattestudioui@gmail.com";
+
+    GL_HELP "Show Help";
+	GL_LIGHT_SET "Light Settings";
+
+    GL_RENDERER "You Use Renderer";
+
+    GL_INVERT_COLOR "Opposite Color";
+
+}

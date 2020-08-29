@@ -1,0 +1,36 @@
+STRINGTABLE Studio
+{
+    Studio "Rays 1.0.29";
+
+    ID_OBJECTPROPERTIES_ST "Settings";
+
+    ST_PE "Developer: Evgeny Poboykin, support: lattestudioui@gmail.com";
+
+    ST_MODE "Studio Type";
+    ST_C "C";
+    ST_S "S";
+    ST_U "U";
+    ST_L "L";
+
+    ST_RENDER_COLOR "Color Render Mode";
+    ST_COLOR "Use Color Channel";
+    ST_REFLECTANCE "Use Reflectance Channel";
+
+    ST_STUDIO_COLOR "Studio Color";
+
+    ST_WIDTH "Width";
+    ST_HIDTH "Height";
+    ST_DEFTH "Depth";
+    ST_ROUNDING "Fillet";
+
+    ST_COLOR_SET "Color Settings";
+
+    ST_HELP "Show Help";
+    ST_STUDIO_SETTINGS "Studio Profile";
+
+    ST_RENDERER "You Use Renderer";
+
+    ST_SUB_VIEWER "Subdivision Editor";
+    ST_SUB_RENDER "Subdivision Renderer";
+
+}

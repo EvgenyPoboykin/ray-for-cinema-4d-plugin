@@ -1,0 +1,87 @@
+STRINGTABLE SoftBox
+{
+    SoftBox "Rays 1.0.29";
+
+    ID_OBJECTPROPERTIES_SB "Settings";
+
+    SB_WIDTH "Width Softbox";
+    SB_HIDTH "Heigth Softbox";
+    SB_RADIUS_SPLINE "Radius Softbox";
+    SB_DIST "Light Falloff";
+
+    SB_COLOR_BOX "Color Softbox";
+    SB_SHOW_BOX "Show Box";
+    SB_SHOW_FALLOFF "Show Falloff";
+    SB_INFINITE "Box Cast The Shadows";
+
+    SB_LIGHT_SET "Light Settings";
+
+    SB_LIGHT_COLOR "Color Light";
+    SB_BRIGHTNESS "Light Brightness";
+
+
+    SB_USED_BRIGHTNESS_PLANE "Control Plane Brightness";
+    SB_BRIGHTNESS_PLANE "Brightness Reflection Plane";
+
+    SB_SHADOW_SET "Shadow Settings";
+
+    SB_LIGHT_SHADOWTYPE "Shadow Type";
+    SB_SH_NONE "None";
+    SB_SH_AREA "Area";
+    SB_SH_RAY "Raytraced (Hard)";
+    SB_SH_SOFT "Shadow Maps (Soft)";
+    SB_LOCK "Use Artistic Shadows";
+    SB_SHADOW_COLOR "Color Shadow";
+    SB_SHADOW_DENSITY "Shadow Saturation";
+    SB_SHADOW_VALUE "Shadow Value";
+    SB_LIGHT_SHADOW_DENSITY "Density Shadow";
+    SB_LIGHT_SHADOW_MAXSAMPLES "Maximum Samples";
+    SB_LIGHT_SHADOW_MAPSIZEX "Resolution X";
+
+    SB_COMPOSITING_SET "Additional Settings";
+
+    SB_SB_CAMERA "Seen By Camera";
+    SB_SB_TRANSPARENCY "Seen by Transparency";
+    SB_LIGHT_ON "Standard Light On";
+    SB_ADDGAIN "High Quality Light(Slow)";
+
+    SB_VIEWPORT "Additional Settings";
+
+    SB_V_EDITOR "Visible In Editor";
+    SB_VIEWPORT_FLOATVIEW "Constant Shading";
+
+    SB_MODE "Light Mode";
+    SB_SOFTBOX "Square Softbox";
+    SB_SPOT "Circle Softbox";
+
+    SB_REFLECTION "Seen By Reflection";
+    SB_SPECULAR "Seen By Specular";
+
+    SB_SAMPLES "Samples";
+
+    SB_ADD_TARGET_TAG "Add Target Tag / Delete Target Tag";
+
+    SB_PE "Developer: Evgeny Poboykin, support: lattestudioui@gmail.com";
+
+    SB_HELP "Show Help";
+    SB_TARGET "Target Object";
+    SB_SOFT_SETTINGS "Softbox Settings";
+
+
+
+    ID_OBJECTPROPERTIES_SB_PRO "Project";
+
+    SB_LIGHT_PRO "Mode";
+    SB_EXCLUDE "Exlude";
+    SB_INCLUDE "Include";
+    SB_LIGHT_OBJECT "Objects";
+
+    SB_RENDERER "You Use Renderer";
+
+    SB_CAST "Box Cast Shadows";
+
+    SB_USED "Use Master Light";
+    SB_LINK "Master Light";
+    SB_INVERT_COLOR "Opposite Color";
+
+}

@@ -1,0 +1,37 @@
+STRINGTABLE BounceCard
+{
+    BounceCard "Rays 1.0.29";
+
+    ID_OBJECTPROPERTIES_BC "Settings";
+
+    BC_PE "Developer: Evgeny Poboykin, support: lattestudioui@gmail.com";
+
+    BC_ADD_TARGET_TAG "Add Target Tag / Delete Target Tag";
+
+    BC_WIDTH "Width";
+    BC_HIDTH "Hidth";
+    BC_RADIUS "Radius";
+
+    BC_COLOR "Color Settings";
+
+    BC_LIGHT_COLOR "Color";
+    BC_POWER "Brightness";
+
+    BC_COMPOSITING_SET "Additional Settings";
+
+    BC_SB_CAMERA "Seen By Camera";
+    BC_SB_TRANSPARENCY "Seen By Transparency";
+    BC_V_EDITOR "Visible In Editor";
+    BC_LIGHT_RAY "Seen By Camera Ray";
+    BC_LIGHT_GI "GI Light On";
+
+    BC_BUTTON_ADDD "Target Object";
+    BC_SIZE "BounceCard Size";
+    BC_HELP "Show Help";
+
+    BC_RENDERER "You Use Renderer";
+
+    BC_USED "Use Master Light";
+    BC_LINK "Master Light";
+    BC_INVERT_COLOR "Opposite Color";
+}

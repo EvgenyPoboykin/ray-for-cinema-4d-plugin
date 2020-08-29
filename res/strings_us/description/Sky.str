@@ -1,0 +1,42 @@
+STRINGTABLE Sky
+{
+    Sky "Rays 1.0.29";
+
+    ID_OBJECTPROPERTIES_S "Settings";
+
+    S_FILE "HDRI Map";
+
+    S_LOCK_ROT_SUN "Lock Rotation Daylight";
+    S_SUN "Daylight Object";
+
+    S_SHOW_PREVIEW "Show Preview";
+    S_ROT_X "Rotation HDRI";
+
+    S_HDRI_SET "HDRI Settings";
+    S_HDRI_HUE "Hue";
+    S_HDRI_SATURAYION "Saturation";
+    S_HDRI_LIGHTNESS "Lightness";
+    S_COLORIZE "Colorize";
+    S_HDRI_BRIGHTNESS "Brightness";
+    S_HDRI_CONTRAST "Contrast";
+    S_HDRI_GAMMA "Gamma";
+    S_COMP_SET "Additional Settings";
+    S_SEEN_BY_TRANS "Seen By Transparency";
+    S_SEEN_BY_REFRACTION "Seen By Refraction";
+    S_RADIUS_PREVIEW "Radius Preview";
+
+    S_BRIGHTNESS "Sky Brightness";
+
+    S_ILLUMINATION "Illumination";
+    S_GI "Generate GI";
+    S_CORRECTION "Correction HDRI";
+    S_LOCK_GI "Lock Generate GI With Sky Brightness";
+
+    S_PE "Developer: Evgeny Poboykin, support: lattestudioui@gmail.com";
+
+    S_HELP "Show Help";
+    S_SETTINGS "Sky Settings";
+
+    S_RENDERER "You Use Renderer";
+
+}

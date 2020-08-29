@@ -1,0 +1,88 @@
+STRINGTABLE OverheadSoftBox
+{
+    OverheadSoftBox "Rays 1.0.29";
+
+    ID_OBJECTPROPERTIES_OH "Settings";
+
+    OH_WIDTH "Width Softbox";
+    OH_HIDTH "Heigth Softbox";
+    OH_RADIUS_SPLINE "Radius Softbox";
+    OH_DIST "Light Falloff";
+
+    OH_COLOR_BOX "Color Softbox";
+    OH_SHOW_BOX "Show Box";
+    OH_SHOW_FALLOFF "Show Falloff";
+    OH_INFINITE "Box Cast The Shadows";
+
+    OH_LIGHT_SET "Light Settings";
+
+    OH_LIGHT_COLOR "Color Light";
+    OH_BRIGHTNESS "Light Brightness";
+
+
+    OH_USED_BRIGHTNESS_PLANE "Control Plane Brightness";
+    OH_BRIGHTNESS_PLANE "Brightness Reflection Plane";
+
+    OH_SHADOW_SET "Shadow Settings";
+
+    OH_LIGHT_SHADOWTYPE "Shadow Type";
+    OH_SH_NONE "None";
+    OH_SH_AREA "Area";
+    OH_SH_RAY "Raytraced (Hard)";
+    OH_SH_SOFT "Shadow Maps (Soft)";
+    OH_LOCK "Use Artistic Shadows";
+    OH_SHADOW_COLOR "Color Shadow";
+    OH_SHADOW_DENSITY "Shadow Saturation";
+    OH_SHADOW_VALUE "Shadow Value";
+    OH_LIGHT_SHADOW_DENSITY "Density Shadow";
+    OH_LIGHT_SHADOW_MAXSAMPLES "Maximum Samples";
+    OH_LIGHT_SHADOW_MAPSIZEX "Resolution X";
+
+    OH_COMPOSITING_SET "Additional Settings";
+
+    OH_OH_CAMERA "Seen By Camera";
+    OH_OH_TRANSPARENCY "Seen by Transparency";
+    OH_LIGHT_ON "Standard Light On";
+
+    OH_VIEWPORT "Additional Settings";
+
+    OH_V_EDITOR "Visible In Editor";
+    OH_VIEWPORT_FLOATVIEW "Constant Shading";
+    OH_ADDGAIN "High Quality Light(Slow)";
+
+    OH_MODE "Light Mode";
+    OH_SOFTBOX "Square Overhead";
+    OH_SPOT "Circle Overhead";
+
+    OH_REFLECTION "Seen By Reflection";
+    OH_SPECULAR "Seen By Specular";
+
+    OH_SAMPLES "Samples";
+
+    OH_SHADOW_FALLOFF "Falloff";
+    OH_SHADOW_FALLOFF_INVERS "Inverse Square (Physically Accurate)";
+    OH_SHADOW_FALLOFF_LINER "Linear";
+    OH_SHADOW_FALLOFF_NONE "None";
+
+    OH_PE "Developer: Evgeny Poboykin, support: lattestudioui@gmail.com";
+
+    OH_HELP "Show Help";
+    OH_SETTINGS "Overhead Settings";
+
+    OH_RENDERER "You Use Renderer";
+
+
+    ID_OBJECTPROPERTIES_OH_PRO "Project";
+
+    OH_LIGHT_PRO "Mode";
+    OH_EXCLUDE "Exlude";
+    OH_INCLUDE "Include";
+    OH_LIGHT_OBJECT "Objects";
+
+    OH_CAST "Box Cast Shadows";
+
+    OH_USED "Use Master Light";
+    OH_LINK "Master Light";
+    OH_INVERT_COLOR "Opposite Color";
+
+}
