@@ -22,4 +22,4 @@ BounceCard, Softbox, Overhead Softbox, Global Light, Daylight, Sky
 ### Surface
 Floor, Studio
 
-![Alt text](https://drive.google.com/file/d/1zPENbLydTGGGJVrdbgsDMnN02dl39EC2/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1zPENbLydTGGGJVrdbgsDMnN02dl39EC2)
